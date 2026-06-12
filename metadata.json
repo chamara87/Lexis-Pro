@@ -1,0 +1,6 @@
+{
+  "name": "English Copy Editor & Rewriter",
+  "description": "An interactive copy editor that corrects grammatical errors and rewrites messages across corporate, classic, and natural casual tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
